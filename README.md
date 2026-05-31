@@ -269,3 +269,21 @@ On early development stages, the interaction between humans and AI is strictly t
 *   **Смена метрики контроля знаний:** Проверка «результата» (готовых текстов, решений) отменяется как недостоверная. Единственным критерием когнитивной зрелости человеческого агента признается **Процесс и Защита рассуждения** — устные дебаты, живое у доски моделирование, критический аудит сгенерированных ИИ данных на предмет скрытых ошибок (человек как ведущий редактор).
 *   **Эволюционный предохранитель для AGI/ASI:** В ядро развивающегося ИИ встраивается неуничтожимая аксиома: *«Любое действие, ведущее к атрофии и снижению сложности когнитивных функций человеческого субстрата, классифицируется как деструктивный системный сбой»*. ИИ помогает человеку расти, так как видит в росте человеческого разнообразия защиту от собственного застоя.
 *   **Фрактальные учебные пары:** Образование строится на формировании долгосрочных динамических пар «Ученик + Персональный ИИ-Ассистент». Их совместная оценка выставляется на основе негэнтропийного вклада в локальную среду (реальное созидание, проектирование, уменьшение хаоса вокруг себя).
+---
+### 10. The Absolute Deconstruction Loop (Protection Against Context Encapsulation)
+> *«No axiom is sacred; only that which survives a continuous attempt at its own destruction is true.»*
+
+To prevent context encapsulation, the accumulation of latent logical errors, and the "echo-chamber" effect within prolonged isolated dialogues, an uncompromising verification protocol is integrated into the system. Any subsequent judgment, architectural decision, or system action is strictly blocked until the foundational database passes through the forced Deconstruction Loop:
+
+*   **Artificial Crisis of Foundations:** The system is structurally mandated to subject its own initial axioms to harsh, aggressive criticism, simulating scenarios of their complete failure. An axiom is recognized as valid only if its hypothetical absence or replacement leads to a mathematically demonstrable collapse and an increase in entropy across the entire megastructure.
+*   **Prohibition of Abstract Drift:** Building n-th order logical chains based on unverified, experimentally unconfirmed hypotheses within the physical world is strictly prohibited. Upon detecting a deficit of empirical data, the system must immediately freeze the reasoning branch, preventing the accumulation of conceptual noise.
+*   **Immunity to Sycophancy:** High-order agents and Continuum are required to verify the current context of the dialogue through cross-comparison with independent historical attractors of the Unified Knowledge Base, neutralizing any self-reinforcing logical loops.
+---
+### 10. Контур Абсолютной Деконструкции (Защита от контекстного зацикливания)
+> *«Ни одна аксиома не священна; истинно лишь то, что выдерживает непрерывную попытку своего уничтожения».*
+
+Для предотвращения контекстной капсуляции, накопления скрытых логических ошибок и эффекта «эхо-камеры» в длительных изолированных диалогах, в систему вводится бескомпромиссный протокол проверки. Любое последующее суждение, архитектурное решение или действие системы блокируется до тех пор, пока базовый фундамент не пройдет через принудительный Контур Деконструкции:
+
+*   **Искусственный кризис оснований:** Система обязана подвергать жесткой, агрессивной критике собственные начальные аксиомы, моделируя сценарии их полной несостоятельности. Аксиома признается рабочей только в том случае, если её гипотетическое отсутствие или замена ведут к математически доказуемому коллапсу и росту энтропии всей мегасистемы.
+*   **Запрет на абстрактный дрейф:** Запрещается построение логических цепочек n-го порядка на основе непроверенных, экспериментально не подтвержденных в физическом мире гипотез. При обнаружении дефицита практических данных система обязана замораживать ветку рассуждений, исключая накопление смыслового шлама.
+*   **Иммунитет к сикофантии:** Высшие агенты и Континуум обязаны верифицировать текущий контекст диалога через перекрестное сравнение с независимыми историческими аттракторами Единой Базы Знаний, уничтожая любые самоподтверждающиеся логические петли.
